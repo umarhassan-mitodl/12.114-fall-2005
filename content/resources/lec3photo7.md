@@ -7,6 +7,8 @@ description: In this image we see folded carbonates that were deposited west of 
 file: /courses/12-114-field-geology-i-fall-2005/a815ee04279cde7eefac65abfe337565_lec3photo7.jpg
 file_size: 84881
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image we see folded carbonates that were deposited west of the
     Antler Orogeny at the same time that that deformation was occurring. This suggests

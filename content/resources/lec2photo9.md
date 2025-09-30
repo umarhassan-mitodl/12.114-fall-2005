@@ -7,6 +7,8 @@ description: In this image, you can see the typical near shore or river environm
 file: /courses/12-114-field-geology-i-fall-2005/064761711e0e8b29819ace6cf8abdf44_lec2photo9.jpg
 file_size: 83424
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image, you can see the typical near shore or river environment
     where the sediments have well defined cross bedding and there are desiccation

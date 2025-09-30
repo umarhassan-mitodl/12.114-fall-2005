@@ -6,6 +6,8 @@ description: "This image is of the equivalent basal diamictite but in southern C
 file: /courses/12-114-field-geology-i-fall-2005/e06951bfc9ff64d61913967e70175201_lec2photo12.jpg
 file_size: 77991
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "This image is of the equivalent basal diamictite but in southern California\u2026\
     suggesting that the glaciation was laterally extensive (if not continuous) across\

@@ -7,6 +7,8 @@ description: "In this image we can see the m\xE9lange rocks that were scraped of
 file: /courses/12-114-field-geology-i-fall-2005/9f4ef8ea5e4cc1508ae670ba65d4440c_lecture03_121jpg.jpg
 file_size: 65834
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "In this image we can see the m\xE9lange rocks that were scraped off the\
     \ subducting oceanic crust and accumulated in accretionary wedges at the subduction\

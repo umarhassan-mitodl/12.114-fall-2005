@@ -4,6 +4,8 @@ description: This resource contains instructions on Smoothing a Line.
 file: /courses/12-114-field-geology-i-fall-2005/e6964be1662cf149ab6fb3e73b7d2649_smooth_line.pdf
 file_size: 1400282
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -15,6 +15,8 @@ description: In this slide, we see the location of the eastern limit of the arc-
 file: /courses/12-114-field-geology-i-fall-2005/a032339b7e22362b31f48481dfbde8c9_lecture03_140jpg.jpg
 file_size: 30849
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this slide, we see the location of the eastern limit of the arc-related
     plutons. They trace across the entire western edge of the plate margin, suggesting

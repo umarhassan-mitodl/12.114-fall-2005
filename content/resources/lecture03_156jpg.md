@@ -8,6 +8,8 @@ description: In this final slide, you can see the present configuration of the w
 file: /courses/12-114-field-geology-i-fall-2005/123c8290de237dac5c308e6de21a3607_lecture03_156jpg.jpg
 file_size: 47150
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this final slide, you can see the present configuration of the western
     edge of NA. Arc volcanism continues in the Cascades above the subduction zone

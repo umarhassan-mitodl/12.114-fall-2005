@@ -4,6 +4,8 @@ description: This resource contains instructions on Symbology for Point Data.
 file: /courses/12-114-field-geology-i-fall-2005/a7c682b6166c8f84f98f0bb4f86b9166_pointsymbols.pdf
 file_size: 1565289
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

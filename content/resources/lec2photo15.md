@@ -8,6 +8,8 @@ description: "Here is an image from the Grand Canyon. Remember, we are east of t
 file: /courses/12-114-field-geology-i-fall-2005/a9ad848ba2e7c90fe8e7abf9c9f0c66f_lec2photo15.jpg
 file_size: 63139
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "Here is an image from the Grand Canyon. Remember, we are east of the hinge\
     \ line. In the image we see 1.6 \u2013 1.8 by basement rocks overlain by non-marine\

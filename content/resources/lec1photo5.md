@@ -12,6 +12,8 @@ description: "From the low angle of the shadows you can see we start early in th
 file: /courses/12-114-field-geology-i-fall-2005/cc6bf88a84ce89f4d14f961084ac3d81_lec1photo5.jpg
 file_size: 69100
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "From the low angle of the shadows you can see we start early in the day.\
     \ Those groups responsible for breakfast preparation start a half hour early.\

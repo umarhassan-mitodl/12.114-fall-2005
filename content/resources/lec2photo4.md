@@ -28,6 +28,8 @@ description: "This image shows the distribution of Precambrian rocks in North Am
 file: /courses/12-114-field-geology-i-fall-2005/669531de345f9551bbfd9ab4561def2f_lec2photo4.jpg
 file_size: 59120
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "This image shows the distribution of Precambrian rocks in North America\
     \ (NA). This means that the rocks are 600 million years old (ma) or more. In the\

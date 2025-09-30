@@ -15,6 +15,8 @@ description: "We now consider the time between the middle Jurassic (Jr) and the 
 file: /courses/12-114-field-geology-i-fall-2005/b0b8dba137d1756b27610188ae3d2bfc_lecture03_127jpg.jpg
 file_size: 42329
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "We now consider the time between the middle Jurassic (Jr) and the late\
     \ Cretaceous (K). In this image you can see the red magmatic arc mountain belt\

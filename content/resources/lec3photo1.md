@@ -24,6 +24,8 @@ description: In this lecture we return to the Late Devonian/ Early Mississippian
 file: /courses/12-114-field-geology-i-fall-2005/13f725afb9b09492e08fd46fccb2f33c_lec3photo1.jpg
 file_size: 53449
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this lecture we return to the Late Devonian/ Early Mississippian to
     discuss the Antler Orogeny. In this image we see the sheared and folded deep water

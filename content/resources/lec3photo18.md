@@ -9,6 +9,8 @@ description: In this slide we see the igneous rocks that intruded the edge of No
 file: /courses/12-114-field-geology-i-fall-2005/94e7e3bf029890357154381bef4d7eec_lec3photo18.jpg
 file_size: 77870
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this slide we see the igneous rocks that intruded the edge of North
     America exposed by the late Paleozoic truncation fault. These granites are ~252ma

@@ -7,6 +7,8 @@ description: This is another image showing the accretionary wedge material in bl
 file: /courses/12-114-field-geology-i-fall-2005/0b1947c58b878d4a3f02606d910757d2_lecture03_125jpg.jpg
 file_size: 29954
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This is another image showing the accretionary wedge material in blue.
     The black spots are areas of oceanic crust or partial ophiolite sequences. This

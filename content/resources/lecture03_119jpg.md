@@ -18,6 +18,8 @@ description: "In these cross sections we compare the differences between the nor
 file: /courses/12-114-field-geology-i-fall-2005/c92fdfc09af923a5f490386db1d1d211_lecture03_119jpg.jpg
 file_size: 27871
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "In these cross sections we compare the differences between the northwest\
     \ and the southwest part of the continental margin. Along the northwest part of\

@@ -12,6 +12,8 @@ description: As you move up through the oceanic crust, you leave the magma chamb
 file: /courses/12-114-field-geology-i-fall-2005/3e7ccbc8fde21b1d17c02ddd13480078_lec3photo12.jpg
 file_size: 72416
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: As you move up through the oceanic crust, you leave the magma chamber and
     enter the sheeted dike complex. This region is composed of a collection of vertically-oriented

@@ -2,6 +2,8 @@
 content_type: page
 description: Tools section contains an extended tutorial written by a former class
   TA.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

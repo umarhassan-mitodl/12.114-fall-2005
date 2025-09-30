@@ -8,6 +8,8 @@ description: In this image we can see in the North the Sonoma orogen bounded on 
 file: /courses/12-114-field-geology-i-fall-2005/d7fcb406cb820541907233c2af9df062_lecture03_120jpg.jpg
 file_size: 38008
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image we can see in the North the Sonoma orogen bounded on the
     East by the Sonoma thrust front. In the SW you can see the beginning of the arc

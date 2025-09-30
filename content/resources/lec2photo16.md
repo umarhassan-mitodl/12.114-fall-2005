@@ -9,6 +9,8 @@ description: This image is from Death Valley, well west of the hinge line. The p
 file: /courses/12-114-field-geology-i-fall-2005/e040b7ec1505c10b7b4792da115b03f7_lec2photo16.jpg
 file_size: 56989
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This image is from Death Valley, well west of the hinge line. The pile
     of Cambrian sediments here are ~3000 meters of carbonate rocks are represent only

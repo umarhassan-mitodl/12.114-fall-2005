@@ -4,6 +4,8 @@ description: This resource contains instructions on Dealing with Projections.
 file: /courses/12-114-field-geology-i-fall-2005/d0e3b965515003be4a55ae9b08b320d0_projections.pdf
 file_size: 1150088
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

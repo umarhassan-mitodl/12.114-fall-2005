@@ -15,6 +15,8 @@ description: "In this dark image you can see a group of geologists examining an 
 file: /courses/12-114-field-geology-i-fall-2005/6d8011f918f88ca9fe86f1bc0b583d17_lec1photo13.jpg
 file_size: 41005
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "In this dark image you can see a group of geologists examining an outcrop\u2026\
     When we go into the field we try to go to an area that has not been mapped in\

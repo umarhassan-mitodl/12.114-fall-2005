@@ -9,6 +9,8 @@ description: And this slide is in here just to show that though I may present a 
 file: /courses/12-114-field-geology-i-fall-2005/5b5f8118116c9e892f8e0eb69a88ab1e_lec2photo19.jpg
 file_size: 75624
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: And this slide is in here just to show that though I may present a relatively
     coherent story of the western edge of America, there are still things that we

@@ -5,6 +5,8 @@ description: Here you see a party of two mapping together, collecting data and d
 file: /courses/12-114-field-geology-i-fall-2005/9e7a5f88e6af37f2d131083693ee8344_lec1photo12.jpg
 file_size: 53096
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Here you see a party of two mapping together, collecting data and discussing
     it.

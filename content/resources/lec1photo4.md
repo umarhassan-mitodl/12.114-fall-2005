@@ -7,6 +7,8 @@ description: We will often have discussions in the morning that will cover what 
 file: /courses/12-114-field-geology-i-fall-2005/02302f50e00e314dc5eca41243b99bc7_lec1photo4.jpg
 file_size: 50728
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: We will often have discussions in the morning that will cover what we are
     doing each day in the field. Instructors or mapping teams will let the others

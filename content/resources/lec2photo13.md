@@ -29,6 +29,8 @@ description: This slide focuses on rocks of Cambrian to Late Devonian age (550-3
 file: /courses/12-114-field-geology-i-fall-2005/fa2425fb85f03c4b2ca5435ad7728587_lec2photo13.jpg
 file_size: 43288
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This slide focuses on rocks of Cambrian to Late Devonian age (550-350ma).
     So this period is twice as long and the previous discussed one (200 vs. 100 my).

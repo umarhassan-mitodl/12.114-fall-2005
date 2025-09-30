@@ -5,6 +5,8 @@ description: In this image, we see some of those arc volcanics deposited above s
 file: /courses/12-114-field-geology-i-fall-2005/5c2026097f56e2951ad7ffb6a4e7627b_lec3photo15.jpg
 file_size: 74917
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image, we see some of those arc volcanics deposited above seafloor
     sediments.

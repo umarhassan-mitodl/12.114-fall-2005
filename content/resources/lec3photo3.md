@@ -5,6 +5,8 @@ description: A possible young analog for the Antler Orogeny. Image courtesy of P
 file: /courses/12-114-field-geology-i-fall-2005/33cee69470029189aa58597c3bec04dc_lec3photo3.jpg
 file_size: 65663
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: A possible young analog for the Antler Orogeny.
   credit: Image courtesy of Professor Burchfiel.

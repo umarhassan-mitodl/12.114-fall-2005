@@ -22,6 +22,8 @@ description: "The final part that we will discuss today has to do with the End D
 file: /courses/12-114-field-geology-i-fall-2005/44314356f7676867e3cbe5bb26b5175d_lec2photo20.jpg
 file_size: 41012
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "The final part that we will discuss today has to do with the End Devonian\
     \ to the Early Mississippian (~350-340 ma). During this period we find the western\

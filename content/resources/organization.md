@@ -4,6 +4,8 @@ description: This resource contains a note on organization.
 file: /courses/12-114-field-geology-i-fall-2005/d9256a95df65a0fd51561ca2c1c30759_organization.pdf
 file_size: 8140
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

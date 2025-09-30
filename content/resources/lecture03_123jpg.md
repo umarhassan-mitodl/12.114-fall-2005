@@ -7,6 +7,8 @@ description: This image shows some of the coherent oceanic sediments found in th
 file: /courses/12-114-field-geology-i-fall-2005/fb5c3d272f6c40c107bc879fae819549_lecture03_123jpg.jpg
 file_size: 87859
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This image shows some of the coherent oceanic sediments found in the accretionary
     wedge. These are deep-water silicious cherts. Again, in these rocks we find mixed

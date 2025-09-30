@@ -20,6 +20,8 @@ description: "Some Final Considerations: (Lectured with out slides)----------The
 file: /courses/12-114-field-geology-i-fall-2005/391053fcc35a8e1e2be3412d53b39dd5_lec1photo19.jpg
 file_size: 79894
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "Some Final Considerations: (Lectured with out slides)----------There are\
     \ no weather reports where we will be. We deal with the weather we are given.-------We\

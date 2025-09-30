@@ -29,6 +29,8 @@ description: 'Three additional events are important during Mississippian-Permian
 file: /courses/12-114-field-geology-i-fall-2005/4a21baa9daaf85ae3128851b9887b9a0_lec3photo17.jpg
 file_size: 43771
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'Three additional events are important during Mississippian-Permian time
     in western North America: the formation of the ancestral Rockies east of the Cordilleran

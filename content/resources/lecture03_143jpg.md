@@ -29,6 +29,8 @@ description: "In this image we can see a change in the behavior of the Arc envir
 file: /courses/12-114-field-geology-i-fall-2005/fb078d8e24c35375129e57665303349e_lecture03_143jpg.jpg
 file_size: 47409
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "In this image we can see a change in the behavior of the Arc environment.\
     \ To the north in Canada we find the intrusive arc continues to emplace large\

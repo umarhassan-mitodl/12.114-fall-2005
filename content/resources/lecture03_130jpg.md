@@ -8,6 +8,8 @@ description: This slide shows the different thicknesses of the sediments in the 
 file: /courses/12-114-field-geology-i-fall-2005/08d962cc949e415c3257dd01e50fe0a5_lecture03_130jpg.jpg
 file_size: 34068
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This slide shows the different thicknesses of the sediments in the fore-deep
     basin. You can see that the thickest part of the basin is in the west, adjacent

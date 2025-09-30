@@ -15,6 +15,8 @@ description: In this image we see the layering of crystals that accumulate and p
 file: /courses/12-114-field-geology-i-fall-2005/98f6393de2deb632dfbd65b69705a3ab_lec3photo11.jpg
 file_size: 73501
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image we see the layering of crystals that accumulate and precipitate
     out of the melt in a magma chamber. There are light colored trondhjemites and

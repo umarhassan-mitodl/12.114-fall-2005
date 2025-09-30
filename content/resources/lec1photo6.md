@@ -7,6 +7,8 @@ description: These are the old tents. Though large they got knocked over frequen
 file: /courses/12-114-field-geology-i-fall-2005/7e6f0bb8fd930f4e833cbc03ec7b6dc0_lec1photo6.jpg
 file_size: 52485
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: These are the old tents. Though large they got knocked over frequently
     in then nightly winds. We have a set of 4x4 field vehicles that we use for moving

@@ -5,6 +5,8 @@ description: When the weather gets bad (snowed-out or blow-out), we often go on 
 file: /courses/12-114-field-geology-i-fall-2005/00ad2842fbd66a6706b170fe85a47b76_lec1photo14.jpg
 file_size: 40336
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: When the weather gets bad (snowed-out or blow-out), we often go on field
     trips. This is one to Death Valley.

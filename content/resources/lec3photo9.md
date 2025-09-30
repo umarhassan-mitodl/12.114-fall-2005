@@ -8,6 +8,8 @@ description: In this image we see a student contemplating the rocks further west
 file: /courses/12-114-field-geology-i-fall-2005/39e23290268877eeead7ba642ff5bbe3_lec3photo9.jpg
 file_size: 72503
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image we see a student contemplating the rocks further west of
     the previous image. There you find the ocean floor on which the Arc was deposited.

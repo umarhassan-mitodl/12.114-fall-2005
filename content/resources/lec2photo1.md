@@ -6,6 +6,8 @@ description: Geologic map of North America. On the west side of North America, a
 file: /courses/12-114-field-geology-i-fall-2005/c5c8126ac1a2bd40355ea25c61820e79_lec2photo1.jpg
 file_size: 102748
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Geologic map of North America. On the west side of North America, adjacent
     to the Pacific Ocean, is the Cordilleran Mountain Chain, the main focus of our

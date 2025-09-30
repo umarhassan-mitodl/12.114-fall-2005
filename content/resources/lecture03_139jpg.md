@@ -5,6 +5,8 @@ description: These coarse conglomerate deposits are located in close proximity t
 file: /courses/12-114-field-geology-i-fall-2005/ac5607d54cb023274dfe70ecfe0688c7_lecture03_139jpg.jpg
 file_size: 76677
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: These coarse conglomerate deposits are located in close proximity to the
     thrust front.

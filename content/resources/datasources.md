@@ -4,6 +4,8 @@ description: This resource contains the list of data sources.
 file: /courses/12-114-field-geology-i-fall-2005/49f778710aa63771eca941c85955dd0a_datasources.pdf
 file_size: 9325
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: This resource contains a field book example by Crosby.
 file: /courses/12-114-field-geology-i-fall-2005/496a156c069e399e595336c09c2bb130_crosby_field_gs.pdf
 file_size: 1756714
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -13,6 +13,8 @@ description: In this image we see the ashes and sediments associated with the la
 file: /courses/12-114-field-geology-i-fall-2005/44a4b3f13aeedad31f66ed51cee2a659_lec3photo8.jpg
 file_size: 80705
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image we see the ashes and sediments associated with the late Paleozoic
     island arcs that have experienced epidote alteration. That is what gives them

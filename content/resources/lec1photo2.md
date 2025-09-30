@@ -12,6 +12,8 @@ description: This is an image of the camp set-up. There is a cook tent in the ba
 file: /courses/12-114-field-geology-i-fall-2005/5ac87135220dc49668e1d66b481ea651_lec1photo2.jpg
 file_size: 59870
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This is an image of the camp set-up. There is a cook tent in the background.
     Inside are stoves, tables, food storage and lanterns for the evenings. We wash

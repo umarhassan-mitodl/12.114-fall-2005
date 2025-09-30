@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: Calendar section contains course schedule and lab out information.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar

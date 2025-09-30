@@ -9,6 +9,8 @@ description: We do our field work in the southwest United States in January. It 
 file: /courses/12-114-field-geology-i-fall-2005/b899ef9ba2b7e809c93c929e0c88dd8b_lec1photo1.jpg
 file_size: 46580
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: We do our field work in the southwest United States in January. It is true
     that there is snow in the high mountains in the desert at that time but we will

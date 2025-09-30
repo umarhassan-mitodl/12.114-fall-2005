@@ -9,6 +9,8 @@ description: Here are our tent-sites spread across the desert at one camp. Tents
 file: /courses/12-114-field-geology-i-fall-2005/a32922631a24793ebfd5fcde30a00d93_lec1photo8.jpg
 file_size: 58053
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Here are our tent-sites spread across the desert at one camp. Tents MUST
     be strong and wind-proof and well staked down. Dome-style tents that are low to

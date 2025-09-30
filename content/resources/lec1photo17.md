@@ -7,6 +7,8 @@ description: This is why we do work in the desert! Great exposure! In New Englan
 file: /courses/12-114-field-geology-i-fall-2005/839de41ea7d6e2e283772eb08121d378_lec1photo17.jpg
 file_size: 53176
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This is why we do work in the desert! Great exposure! In New England there
     are trees and soils and brush that obscure 80% of the ground. In the desert there

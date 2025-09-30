@@ -7,6 +7,8 @@ description: In this image you are looking west at the basal detachment of the f
 file: /courses/12-114-field-geology-i-fall-2005/2d5666357753bfc759f594153f3d1be4_lecture03_134jpg.jpg
 file_size: 62481
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image you are looking west at the basal detachment of the fold
     and thrust belt where the fault is relatively parallel to the stratigraphy. In

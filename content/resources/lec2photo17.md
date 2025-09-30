@@ -9,6 +9,8 @@ description: This slide shows those distal rocks that were deposited during phas
 file: /courses/12-114-field-geology-i-fall-2005/93a8a397a73bdd66bae919791d254cf8_lec2photo17.jpg
 file_size: 72516
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This slide shows those distal rocks that were deposited during phase two,
     but thrust back over the passive margin during the Antler Orogeny (mountain building

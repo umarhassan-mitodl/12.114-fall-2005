@@ -13,6 +13,8 @@ description: "In this image we can see the Cordilleran fold and thrust belt in C
 file: /courses/12-114-field-geology-i-fall-2005/c247d68e89825b8557467238d13fe4a2_lecture03_133jpg.jpg
 file_size: 19589
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "In this image we can see the Cordilleran fold and thrust belt in Canada.\
     \ Some have described the structural form of arc environments using the following\

@@ -4,6 +4,8 @@ description: This resource contains instructions on Making A Shapefile in Arc Ca
 file: /courses/12-114-field-geology-i-fall-2005/2e115760d078e239b2e03a39969927fa_make_shapefile.pdf
 file_size: 846621
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -28,6 +28,8 @@ description: "We begin this lecture at the end Paleozoic. Up to now, the tectoni
 file: /courses/12-114-field-geology-i-fall-2005/ce2abff14028971bb16eec36194d5d08_lecture03_118jpg.jpg
 file_size: 35928
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "We begin this lecture at the end Paleozoic. Up to now, the tectonic assemblage\
     \ of western North America has been dominated by the accretion of terranes over\

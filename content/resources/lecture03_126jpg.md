@@ -13,6 +13,8 @@ description: "In this image, the purple, Star Peak basin is where the West Nevad
 file: /courses/12-114-field-geology-i-fall-2005/a13a1e4f42e454d04334855a51915382_lecture03_126jpg.jpg
 file_size: 37450
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "In this image, the purple, Star Peak basin is where the West Nevada Triassic\
     \ basin sediments were deposited in the back arc environment following development\

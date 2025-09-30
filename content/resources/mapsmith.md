@@ -4,6 +4,8 @@ description: This resource contains instructions on installing mapsmith.
 file: /courses/12-114-field-geology-i-fall-2005/8ef0db0ed656c7638131f6a5a159494d_mapsmith.pdf
 file_size: 594241
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

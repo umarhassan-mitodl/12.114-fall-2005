@@ -9,6 +9,8 @@ description: We will stay together as one big group on the first day. We will in
 file: /courses/12-114-field-geology-i-fall-2005/e3fe2b6c423166aba34cde74e3d842e5_lec1photo10.jpg
 file_size: 45696
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: We will stay together as one big group on the first day. We will introduce
     you to the regional geology and the rocks that we will be working in. This will

@@ -11,6 +11,8 @@ description: In a lot of geologic thinking, we too often expect compressional de
 file: /courses/12-114-field-geology-i-fall-2005/41248e5d2f8cb22edaa9f4d213b149a5_lecture03_141jpg.jpg
 file_size: 31837
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In a lot of geologic thinking, we too often expect compressional deformation
     to be accordion-style where all movement is in the direction of compression. But

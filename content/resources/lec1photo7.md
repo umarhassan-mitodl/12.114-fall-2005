@@ -8,6 +8,8 @@ description: Here is another morning camp scene. You can see the coolers circled
 file: /courses/12-114-field-geology-i-fall-2005/ace96f7d6637360e8a8ba604a80938f3_lec1photo7.jpg
 file_size: 54863
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Here is another morning camp scene. You can see the coolers circled as
     benches and peanut butter still out and on the table. The water jug down to the

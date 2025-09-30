@@ -16,6 +16,8 @@ description: This next image portrays the timing of different depositional event
 file: /courses/12-114-field-geology-i-fall-2005/1e00857a615993690c8ffebd19d67335_lec3photo16.jpg
 file_size: 26740
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This next image portrays the timing of different depositional events around
     the time of the Antler Orogeny. You can see that the Arc Volcanism continued throughout

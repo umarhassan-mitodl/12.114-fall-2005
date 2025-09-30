@@ -11,6 +11,8 @@ description: This image shows all the basin and range faults. You can see the re
 file: /courses/12-114-field-geology-i-fall-2005/2bc890cef46ba339f12fc1be48fa69a9_lecture03_155jpg.jpg
 file_size: 36574
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This image shows all the basin and range faults. You can see the releasing
     bend in Baja California as the western edge of NA is shifted to the NW. This change

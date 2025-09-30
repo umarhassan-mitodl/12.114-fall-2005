@@ -10,6 +10,8 @@ description: This is the map tent where we store the computers and the mapping e
 file: /courses/12-114-field-geology-i-fall-2005/cfae833c082c87017c120fcaff26d078_lec1photo3.jpg
 file_size: 57895
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This is the map tent where we store the computers and the mapping equipment.
     It is where we will eat if the weather is bad but most of the time we will use

@@ -4,6 +4,8 @@ description: This resource contains instructions on Line Symbology.
 file: /courses/12-114-field-geology-i-fall-2005/32bd648ebee5b14f0478ce82063e3869_linesymbols.pdf
 file_size: 10985
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

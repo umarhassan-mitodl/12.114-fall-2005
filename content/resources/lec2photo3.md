@@ -7,6 +7,8 @@ description: This image shows that the accretionary part of north America is act
 file: /courses/12-114-field-geology-i-fall-2005/847af4fc5f6501438eae78a7975eb187_lec2photo3.jpg
 file_size: 32977
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This image shows that the accretionary part of north America is actually
     composed of a large number of individual terranes. We will go into their origin

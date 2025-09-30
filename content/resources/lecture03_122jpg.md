@@ -7,6 +7,8 @@ description: "This is another image of m\xE9lange. As you can see the rocks are 
 file: /courses/12-114-field-geology-i-fall-2005/d2c254813dbd4873def6c0562c6fcaf5_lecture03_122jpg.jpg
 file_size: 70789
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "This is another image of m\xE9lange. As you can see the rocks are highly\
     \ deformed, sheared and folded. Only a mother could love these rocks. Within the\

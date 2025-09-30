@@ -5,6 +5,8 @@ description: This resource contains instructions on transfering data to the comp
 file: /courses/12-114-field-geology-i-fall-2005/1b61b72dce0c7f23094752324749ea26_exercise3.pdf
 file_size: 8959
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

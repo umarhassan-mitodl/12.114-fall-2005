@@ -28,6 +28,8 @@ description: "In this image we see folded and deformed cherts that were deposite
 file: /courses/12-114-field-geology-i-fall-2005/c4376c90f6983af3c214452adf543af9_lec3photo14.jpg
 file_size: 81672
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "In this image we see folded and deformed cherts that were deposited above\
     \ the pillow basalts. This picture is from the area west of the Roberts Mountain\

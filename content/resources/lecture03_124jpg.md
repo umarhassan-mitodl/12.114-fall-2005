@@ -8,6 +8,8 @@ description: 'In this image we can see some of the elements we have discussed pr
 file: /courses/12-114-field-geology-i-fall-2005/8555b75793d414f44b255b247da63d6c_lecture03_124jpg.jpg
 file_size: 29417
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'In this image we can see some of the elements we have discussed previously:
     the distribution of Havallah and related basinal (oceanic) sediments thrust onto

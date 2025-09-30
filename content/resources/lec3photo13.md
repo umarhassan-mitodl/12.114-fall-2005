@@ -11,6 +11,8 @@ description: 'In this image, we see the part of the oceanic crust just above the
 file: /courses/12-114-field-geology-i-fall-2005/588cc938ee53f3da6f82db33f38c6d27_lec3photo13.jpg
 file_size: 60385
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: 'In this image, we see the part of the oceanic crust just above the sheet
     dikes complex: The Pillow Basalts. The production of rocks is fed from below by

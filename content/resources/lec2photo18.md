@@ -10,6 +10,8 @@ description: "These are the highly altered volcanic rocks of an island arc that 
 file: /courses/12-114-field-geology-i-fall-2005/ba0562fcd18c24e970eea6754c898224_lec2photo18.jpg
 file_size: 78405
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "These are the highly altered volcanic rocks of an island arc that have\
     \ been accreted against North America at the end of the Paleozoic. The rocks are\

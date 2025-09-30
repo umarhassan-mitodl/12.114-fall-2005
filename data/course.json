@@ -28,6 +28,7 @@
     "website": "12-114-field-geology-i-fall-2005"
   },
   "course_title": "Field Geology I",
+  "hide_download": true,
   "course_description": "The course provides students with (1) an introduction to the geologic history of western North America, with particular emphasis on our field camp location and (2) an introduction to both digital and traditional techniques of geological field study. The weather permitting, several weekend field exercises provide practical experience in preparation for Field Geology II (12.115). It presents introductory material on the regional geology of the locale of 12.115.\n",
   "department_numbers": [
     "12"
@@ -38,6 +39,7 @@
     "content": "c765e745-c351-924c-0c2e-fdcce11a79a3",
     "website": "12-114-field-geology-i-fall-2005"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Image Gallery",
     "Activity Assignments"

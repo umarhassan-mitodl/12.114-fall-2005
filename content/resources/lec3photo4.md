@@ -7,6 +7,8 @@ description: In this image you can see a big thick stratigraphic section on the 
 file: /courses/12-114-field-geology-i-fall-2005/788c649bb4835e4ce85bdfbe920c3175_lec3photo4.jpg
 file_size: 63551
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image you can see a big thick stratigraphic section on the eastern
     edge of the foredeep where continental sediments and carbonates continued to do

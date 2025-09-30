@@ -5,6 +5,8 @@ description: "In this image we see that the western margin of NA in CA today has
 file: /courses/12-114-field-geology-i-fall-2005/030e735d7ec8c38ba28e262d2b4b1e00_lecture03_128jpg.jpg
 file_size: 59167
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "In this image we see that the western margin of NA in CA today has outcropping\
     \ blocks of Cretaceous rock in m\xE9lange."

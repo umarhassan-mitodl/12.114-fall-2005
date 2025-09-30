@@ -5,6 +5,8 @@ description: In this image you can see the arc intrusive rocks well exposed in Y
 file: /courses/12-114-field-geology-i-fall-2005/ad12482bbb8a086c97cf1b1b75afb328_lecture03_132jpg.jpg
 file_size: 61141
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image you can see the arc intrusive rocks well exposed in Yosemite
     Valley in California.

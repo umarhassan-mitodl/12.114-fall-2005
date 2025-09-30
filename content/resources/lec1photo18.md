@@ -6,6 +6,8 @@ description: For all the hard work we do during the day, there are beautiful eve
 file: /courses/12-114-field-geology-i-fall-2005/f22fda11bc34ed016afcc706e6910c6b_lec1photo18.jpg
 file_size: 39247
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: For all the hard work we do during the day, there are beautiful evenings
     that reward us at the end of the day. This image is of the moon at sunset.

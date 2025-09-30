@@ -5,6 +5,8 @@ description: Here is an aerial view of the tents and camp. Again, you can see th
 file: /courses/12-114-field-geology-i-fall-2005/93f700a42885c55b33e6661c30fc281a_lec1photo16.jpg
 file_size: 55079
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Here is an aerial view of the tents and camp. Again, you can see the good
     dome tents in the background.

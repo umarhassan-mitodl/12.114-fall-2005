@@ -8,6 +8,8 @@ description: Though these rocks are the source of the rocks that we traditionall
 file: /courses/12-114-field-geology-i-fall-2005/bda04718a635a8df26c7d7405020bb26_lec3photo10.jpg
 file_size: 72092
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Though these rocks are the source of the rocks that we traditionally think
     of as igneous, we would call these rocks metamorphic because they are under temperatures

@@ -9,6 +9,8 @@ description: If we move west from the previous slide we see the continental marg
 file: /courses/12-114-field-geology-i-fall-2005/02279962eef7c88be5edcc3ab82e9ce5_lec3photo5.jpg
 file_size: 68454
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: If we move west from the previous slide we see the continental margin sediments
     sourced from the east inter-finger with the conglomerates sourced from the Antler

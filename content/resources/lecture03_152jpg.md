@@ -14,6 +14,8 @@ description: This map view image of North America demonstrates that following th
 file: /courses/12-114-field-geology-i-fall-2005/fee625c8802d010d940903f48ceab37d_lecture03_152jpg.jpg
 file_size: 42915
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This map view image of North America demonstrates that following the Laramide
     orogeny, Arc volcanism migrated southwestward and northwestward as the slab steepened

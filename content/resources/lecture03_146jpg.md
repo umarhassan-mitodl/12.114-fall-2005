@@ -6,6 +6,8 @@ description: This image, taken near Cody, Wyoming also shows the deformation ass
 file: /courses/12-114-field-geology-i-fall-2005/a710a8b1c98010ba56e136391f61426b_lecture03_146jpg.jpg
 file_size: 43976
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: This image, taken near Cody, Wyoming also shows the deformation associated
     with the Laramide orogeny. Here Precambrian rocks are thrust up and over Paleozoic

@@ -6,6 +6,8 @@ description: In this image you can see the Block uplifts of Precambrian basement
 file: /courses/12-114-field-geology-i-fall-2005/e87fb8d21cfb97e9f0d50307ec90a7bc_lecture03_145jpg.jpg
 file_size: 74960
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: In this image you can see the Block uplifts of Precambrian basement with
     Paleozoic sediments draped up and over the blocks in the Wyoming Rocky Mountains.

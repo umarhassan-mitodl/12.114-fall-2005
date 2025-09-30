@@ -4,6 +4,8 @@ description: This resource contains the instructions on editing vector data.
 file: /courses/12-114-field-geology-i-fall-2005/9ede5bcb92a25377a6e550b0594f6be2_editingvectors.pdf
 file_size: 532694
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
